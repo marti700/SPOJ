@@ -68,5 +68,8 @@ build/
 .rvmrc
 
 
-###vim###
+### vim ###
 *.swp
+
+### Other undesirable things ###
+*~
