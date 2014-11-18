@@ -73,3 +73,7 @@ build/
 
 ### Other undesirable things ###
 *~
+
+# these files are from the c9.io ide
+runme
+.c9/
